@@ -15,7 +15,7 @@ A single, end-to-end problem that walks you through building a small Python **pa
 | **Comprehensions & aggregation** | `sum()`, `max()`, `sorted(..., key=...)` |
 | **Type hints & docstrings** | Every function in the package |
 
----
+--- 
 
 ## The scenario
 
